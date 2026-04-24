@@ -22,8 +22,8 @@
 ```
 flight-booking-price-prediction/
 │
-├── Flight_Booking.ipynb   # Main analysis notebook
-├── Flight_Booking.csv              # Dataset (add your own or link below)
+├── Flight_Booking.ipynb   
+├── Flight_Booking.csv              
 └── README.md
 ```
 
