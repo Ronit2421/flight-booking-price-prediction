@@ -22,7 +22,7 @@
 ```
 flight-booking-price-prediction/
 │
-├── Flight_Booking_LinkedIn.ipynb   # Main analysis notebook
+├── Flight_Booking.ipynb   # Main analysis notebook
 ├── Flight_Booking.csv              # Dataset (add your own or link below)
 └── README.md
 ```
@@ -81,36 +81,10 @@ Standard data-science stack: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
-```
-
-### Run the Notebook
-```bash
-git clone https://github.com/YOUR_USERNAME/flight-booking-price-prediction.git
-cd flight-booking-price-prediction
-jupyter notebook Flight_Booking_LinkedIn.ipynb
-```
-
----
-
-## 🔮 What's Next?
-- [ ] Hyperparameter tuning with `GridSearchCV`
-- [ ] Try **XGBoost** / **LightGBM**
-- [ ] Deploy as a **Streamlit app** for real-time price prediction
-- [ ] Add SHAP values for model explainability
-
----
-
 ## 📬 Connect
 
 If you found this project helpful, drop a ⭐ on the repo!  
 Feel free to open an issue or PR for improvements.
-
-**LinkedIn:** [Your LinkedIn]  
 **GitHub:** [Your GitHub]
 
 ---
